@@ -7,9 +7,9 @@ A full-stack MERN healthcare application for booking doctor appointments with in
 - **Frontend**: https://prescripto-frontend-rashi.netlify.app/
 - **Admin Panel**: https://adminrashi.netlify.app/
 - **Backend API**: https://prescripto-u3c0.onrender.com
+- **GitHub Repository**: https://github.com/Abhinavsuri90/prescripto
 
 **Contact**: rashii.malik02@gmail.com
-
 
 ---
 
@@ -282,7 +282,7 @@ VITE_CURRENCY=₹
 
 ---
 
-## � Contact Information
+## 📞 Contact Information
 
 - **Email**: rashii.malik02@gmail.com
 - **Phone**: +1-212-456-7890
@@ -290,7 +290,7 @@ VITE_CURRENCY=₹
 
 ---
 
-## �👥 Contributing
+## 👥 Contributing
 
 This is a project for educational purposes. Feel free to fork and modify.
 
