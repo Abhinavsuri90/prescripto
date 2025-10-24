@@ -290,25 +290,6 @@ This project is open source and available for educational purposes.
 
 ---
 
-## 🎯 Future Enhancements
-
-- [ ] Email notifications
-- [ ] SMS reminders
-- [ ] Video consultation integration
-- [ ] Medical records management
-- [ ] Prescription management
-- [ ] Multiple language support
-- [ ] Dark mode
-
----
-
-## 📞 Support
-
-For issues and questions:
-- GitHub Issues: https://github.com/Abhinavsuri90/prescripto/issues
-- Email: support@prescripto.com
-
----
 
 ## 🙏 Acknowledgments
 
